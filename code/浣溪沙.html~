@@ -1,0 +1,22 @@
+﻿<html>
+    <head>
+        <title>独坐敬亭山</title>
+    </head>
+ 
+    <body>
+    <body background = "C:\Users\Administrator\Desktop\数学131-职业规划\626281823198726097.jpg">
+    <p align=center><font Face = "楷体" size="10">《独坐敬亭山》</font></p>
+  
+    <p align=center><font Face = "楷体" size="7" color="green">李白</font></p>
+
+    <hr width="220" color="red" />
+    <p align=center><font Face = "宋体" size="8" >众鸟高飞尽</font></p>
+    <p align=center><font Face = "宋体" size="8" >孤云独去闲</font></p>
+    <p align=center><font Face = "宋体" size="8" >相看两不厌</font></p>
+    <p align=center><font Face = "宋体" size="8" >只有敬亭山</font></p>
+
+    <marquee direction = left behavior=alternate><font Face = "楷体" size="30" color="yellow">Welcome To My Hometown!!!</font>  
+    </body>
+ 
+</html>
+

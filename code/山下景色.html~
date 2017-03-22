@@ -1,0 +1,9 @@
+﻿<html> 
+<head>
+    <title>山下景色</title>
+</head>
+<frameset cols=10%,90%>
+    <frame src="F:\Computer_networks\c.html">
+    <frame src="F:\Computer_networks\shanxia.html">
+</frameset> 
+</html> 

@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>This is my homepage!!!</title>
+</head>
+<frameset rows=8%,92%>
+        <frame src="F:\Computer_networks\requirement.HTML">
+    <frameset cols=10%,90%>
+        <frame src="F:\Computer_networks\c.html">
+        <frame src="F:\Computer_networks\a.html">
+    </frameset>
+</frameset>
+</html>

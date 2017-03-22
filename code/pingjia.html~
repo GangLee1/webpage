@@ -1,0 +1,77 @@
+﻿<html>
+<body>
+<fieldset>
+<legend>
+    <font color=purple><h1>Your identification</h1><font>
+</legend>
+<font size=5>
+<center>
+<form>
+    <br>
+姓名:
+<input type="text" name="姓名">
+<br>
+<form>
+性别:
+<input type="radio" name="sex" value="male">Male
+<input type="radio" name="sex" value="female">Female
+</form>
+年龄:
+<input type="text" name="年龄">
+<br>
+爱好:
+<input type="text" name="爱好">
+</form>
+</center>
+</font>
+</fieldset>
+
+<fieldset>
+<legend>
+    <font color=purple><h1>Evaluation</h1><font>
+</legend>
+<font size=5>
+<center>
+<form>
+    你喜欢敬亭山的哪点：<br>
+<input type="checkbox">
+不花钱
+<input type="checkbox">
+大门牌
+<input type="checkbox">
+山下景
+<input type="checkbox">
+山中
+<input type="checkbox">
+山顶
+</form>
+</center>
+</font>
+</fieldset>
+
+<fieldset>
+<legend>
+    <font color=purple><h1>What you to say?</h1><font>
+</legend>
+<font size=5>
+<center>
+<p>
+游后感
+</p>
+<font size=4>
+<textarea rows="20" cols="100">
+    总的来说敬亭山还是可以的。
+</textarea>
+<br><br>
+<form>
+<input type="submit" value="Submit">
+</form>
+</font>
+</body>
+</html>
+</center>
+</font>
+</fieldset>
+<embed src="F:\Computer_networks\T-Pain、Wiz Khalifa、Lily Allen - 5 O'Clock.mp3" hidden="true" autostart="true" loop="ture" />
+</body>
+</html>

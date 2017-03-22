@@ -1,0 +1,33 @@
+<html>
+<body>
+<p>
+An image 
+<img src="F:\Computer_networks\image\201071411365161555.jpg" align="bottom" width="100" height="50">
+ in the text
+</p>
+<p>
+An image 擦擦撒裤衩男散打好几次巴萨成本价撒 
+<img src="F:\Computer_networks\image\201071411365161555.jpg" align="middle" width="100" height="50">
+ in the text
+</p>
+<p>
+An image 
+<img src="F:\Computer_networks\image\201071411365161555.jpg" align="top" width="100" height="50">
+ in the text
+</p>
+<p>Note that bottom alignment is the default alignment</p>
+<p>
+An image 
+<img src="F:\Computer_networks\image\201071411365161555.jpg" width="100" height="50">
+ in the text
+</p>
+<p>
+<img src="F:\Computer_networks\image\201071411365161555.jpg" width="100" height="50">
+ An image before the text
+</p>
+<p>
+An image after the text
+<img src="F:\Computer_networks\image\201071411365161555.jpg" width="100" height="50">
+</p>
+</body>
+</html>

@@ -1,0 +1,11 @@
+﻿<html> 
+<head> 
+<title>设定图像的边框</title> 
+</head> 
+<body> <center> 
+    <p align="center"> 
+    <img dynsrc="F:\digital_image_disposal\image\img_algebra\addB.tif" loop="-1" start="mouseover"> 
+</p> 
+</center> 
+</body> 
+</html> 

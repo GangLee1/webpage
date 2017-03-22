@@ -1,0 +1,2 @@
+align是对齐方式，值可以使left,right,middle,center,justified（自动对齐）等。
+valign是vertical（纵向）对齐方式，值可以是top,bottom,center等。

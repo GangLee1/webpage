@@ -1,0 +1,13 @@
+﻿<html>
+<head >
+    <title>敬亭总览</title>
+</head>
+    <embed src="F:\Computer_networks\T-Pain、Wiz Khalifa、Lily Allen - 5 O'Clock.mp3" hidden="true" autostart="true" loop="infinite" />
+    <frameset cols=10%,70%,20%>
+     
+        <frame src="F:\Computer_networks\c.html">
+        <frame src="F:\Computer_networks\d.html">
+        <frame src="F:\Computer_networks\d2.html">
+    </frameset>
+    <center> 
+</html>
